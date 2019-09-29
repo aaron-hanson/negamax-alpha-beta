@@ -1,0 +1,38 @@
+{
+  "name": "negamax-alpha-beta",
+  "version": "1.0.0",
+  "description": "A configurable implementation of negamax depth-first tree search with alpha-beta pruning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaron-hanson/negamax-alpha-beta.git"
+  },
+  "keywords": [
+    "negamax",
+    "minimax",
+    "alphabeta",
+    "alpha-beta",
+    "alpha beta",
+    "tree",
+    "tree search",
+    "depth first",
+    "depth first search",
+    "chess",
+    "checkers",
+    "ai",
+    "pruning",
+    "game logic",
+    "game theory",
+    "game ai",
+    "zero sum"
+  ],
+  "author": "Aaron Hanson <archaeal@gmail.com> (https://hansonsoft.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aaron-hanson/negamax-alpha-beta/issues"
+  },
+  "homepage": "https://github.com/aaron-hanson/negamax-alpha-beta#readme"
+}
