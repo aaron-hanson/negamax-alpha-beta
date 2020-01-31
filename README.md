@@ -1,6 +1,6 @@
 # negamax-alpha-beta
 
-A fast, modular JavaScript implementation of the negamax depth-first 
+A fast, clean, modular JavaScript implementation of the negamax depth-first 
 tree search algorithm with alpha-beta pruning.
 
 # About
